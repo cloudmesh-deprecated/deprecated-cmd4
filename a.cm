@@ -1,0 +1,2 @@
+extend cloudmesh_cmd4.cmd4.plugins.alpha.do_alpha
+alpha
